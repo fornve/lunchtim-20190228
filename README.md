@@ -5,8 +5,8 @@ To jest aplikacja która została stworzona podczas prezentacji ship.it 2019-02-
 ## Uruchomienie projektu
 ```
 Załóż konto na firebase.google.com
-1. Włącz autoryzację przez google
-2. Skopiuj ustawienia dla web na potrzeby pliku config.j.js ;) http://tiny.cc/s2mo3y
+1. Skopiuj ustawienia dla web na potrzeby pliku config.j.js ;) http://tiny.cc/s2mo3y
+2. Włącz autoryzację przez google
 
 Sklonuj repo, wejdź do niego:
 1. npm i
