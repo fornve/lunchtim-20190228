@@ -7,6 +7,7 @@ To jest aplikacja która została stworzona podczas prezentacji ship.it 2019-02-
 Załóż konto na firebase.google.com
 1. Skopiuj ustawienia dla web na potrzeby pliku config.j.js ;) http://tiny.cc/s2mo3y
 2. Włącz autoryzację przez google
+3. Stwórz bazę danych w 'test mode'
 
 Sklonuj repo, wejdź do niego:
 1. npm i
