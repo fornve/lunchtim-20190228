@@ -1,4 +1,6 @@
-#1 Podstawy
+# Bardzo podstawowy kurs vue + firebase + vuetidy
+
+## Podstawy
 
 - Uruchomienie vue
 - Wytłumaczenie katalogów i plików
@@ -11,13 +13,13 @@
   + wrzucanie danych
   + odczyt w czasie rzeczywistym
 
-# Vuetify
+## Vuetify
 - grid 
 - podstawowe elementy v-img v-btn v-icon
 - elementy formularza
 - Nawigacja v-toolbar v-navigation-drawer
 
-#4 Firestore
+## Firestore
 - subskrypcje:
   + nasłuchu zmian na pojedyńczym dokumencie
   + nasłuchu zmian przy użyciu query
@@ -29,7 +31,7 @@
 - update zagnieżdzonych danych w objektach
 - kasowanie danych
 
-#2 Bardziej zaawansowany routing & vuex
+## Bardziej zaawansowany routing & vuex
 - Routing po nazwie elementu routingu
 - $route i $router
 - Przekerowania
@@ -42,12 +44,12 @@
 
 - sloty w templatach
 
-#3 Autentyfikacja
+## Autentyfikacja
 - google
 - email & password
 - inne sposoby
 
-#5 Google functions
+## Google functions
 - pisanie funkcji
 - organizacja funkcji
 - deployment funkcji
@@ -55,7 +57,7 @@
 - zapytania do funkcji http w kodzie
 - dostęp do bazy danych w funkcjach
 
-#6 Upload obrazków
+## Upload obrazków
 
 
 
